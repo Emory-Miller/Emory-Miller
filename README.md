@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 
 - 🔭 I’m currently a full time Software Development student at Zip Code Wilmington!
@@ -7,3 +7,4 @@
 - 📫 How to reach me: 
    - P: 302-245-8563
    - E: emory.taylor.miller@gmail.com
+   - L: linkedin.com/in/emory-miller
