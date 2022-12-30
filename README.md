@@ -5,6 +5,5 @@
 - 🌱 I’m learning Java and JavaScript.
 - 💬 Ask me about ebikes!
 - 📫 How to reach me: 
-   - P: 302-245-8563
    - E: emory.taylor.miller@gmail.com
    - L: www.linkedin.com/in/emory-miller
